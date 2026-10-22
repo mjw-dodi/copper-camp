@@ -2,7 +2,7 @@
 
 A browser survival game set in the mines and streets of Butte, Montana. Pick an immigrant origin (Irish, Cornish, Finnish, Italian, Serbian, or Chinese), take a job, and try to still be standing in Winter 1917.
 
-**Play it:** `https://YOUR-USERNAME.github.io/copper-camp/` (after you enable GitHub Pages — see below).
+**Play it:** `https://mjw-dodi.github.io/copper-camp/` (hosted on GitHub Pages).
 The whole game is one self-contained file, `index.html`; double-click it and it runs offline.
 
 ## How it plays
