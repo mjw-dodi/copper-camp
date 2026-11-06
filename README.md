@@ -2,11 +2,11 @@
 
 A browser survival game set in the mines and streets of Butte, Montana. Pick an immigrant origin (Irish, Cornish, Finnish, Italian, Serbian, or Chinese), take a job, and try to still be standing in Winter 1917.
 
-**Play it:** `https://mjw-dodi.github.io/copper-camp/` (hosted on GitHub Pages).
+**Play it:** `https://mjw-dodi.github.io/copper-camp/` (after you enable GitHub Pages — see below).
 The whole game is one self-contained file, `index.html`; double-click it and it runs offline.
 
 ## How it plays
-- **Each season:** choose a job, work the shift, then spend three evening hours in town.
+- **Each season:** work up to three shifts (try a different job each time), then spend three evening hours in town.
 - **Every mine job is its own game:** Mucker (shovel timing), Timberman (set the swinging timber), Machine man (drill, don't jam the steel), Hot box (shovel and manage heat and ice), Trammer (push and brake the ore car).
 - **Crew and boss:** a dry-room scene before each shift and a dinner-pail break halfway, with partner, greenhorn, Wobbly, boss and rumors.
 - **Town:** walk Uptown or click a destination; ten interiors (the M&M, Union Hall, church, library, sauna, hospital and more).
@@ -40,6 +40,11 @@ Sound is off by default (button in the header). Progress autosaves in your brows
 
 ## History and fiction
 The events, places and dates are real: the 1907 Panic, the rustling card, the 1914 Union Hall dynamiting and martial law, the 1917 Granite Mountain fire and Frank Little's lynching. The Copper Kings (Vance, Brandt, Hobart) and their men are invented, loosely modeled on the real fight over the hill.
+
+## Credits and AI disclosure
+- The character portraits and the title view are AI-generated images in the style of old photographs (made with ElevenLabs Image); every person in them is fictional.
+- The recorded sound effects and the music were generated with ElevenLabs. The rock, dirt, timber and brick textures were baked in Blender.
+- Check the terms of the tools above before reusing these assets.
 
 ## License
 Add a license before inviting contributions. Without one, all rights are reserved.
